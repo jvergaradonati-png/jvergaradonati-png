@@ -45,7 +45,7 @@ I'm building **donatti.ai**, an AI automation and cybersecurity agency in Santia
 ---
 
 <p align="center">
-  <i>"Construyendo desde cero, en público." / "Building from scratch, in public."</i>
+  <i>"Construyendo en público." / "Building in public."</i>
 </p>
 
 <!--
